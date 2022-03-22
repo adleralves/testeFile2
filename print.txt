@@ -1,0 +1,5 @@
+true
+10
+10.2
+teste
+String: teste | Double: 10,00 | Inteiro:   200 
