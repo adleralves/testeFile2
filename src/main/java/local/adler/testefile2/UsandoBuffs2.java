@@ -1,4 +1,4 @@
-package local.adler.testefile2;
+package local.adler.testeFile2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

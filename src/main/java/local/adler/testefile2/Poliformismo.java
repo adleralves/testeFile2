@@ -4,7 +4,7 @@ java.util.Scanner bem conhecida para ler dados do teclado, mas em vez de passar
 o System.in como parâmetro do construtor passamos o FileInputStream, como é bom
 o polimorfismo
  */
-package local.adler.testefile2;
+package local.adler.testeFile2;
 
 import java.io.File;
 import java.io.FileInputStream;

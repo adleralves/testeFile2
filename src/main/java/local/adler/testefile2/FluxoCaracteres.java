@@ -4,7 +4,7 @@ arquivo e retorna o número inteiro de seu código na tabela unicode, ou se for
 o final do arquivo ele retornará -1.
 */
 
-package local.adler.testefile2;
+package local.adler.testeFile2;
 
 import java.io.File;
 import java.io.FileReader;

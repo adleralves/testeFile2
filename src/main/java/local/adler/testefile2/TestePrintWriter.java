@@ -4,7 +4,7 @@ PrintWriter pois possui vários métodos que permitem uma melhor formatação
 dos dados escritos, lembrando que a classe PrintWriter é uma subclasse de 
 Writer então os dados serão escritos na forma de caracteres.
  */
-package local.adler.testefile2;
+package local.adler.testeFile2;
 
 import java.io.File;
 import java.io.IOException;
